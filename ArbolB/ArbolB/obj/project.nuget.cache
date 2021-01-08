@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "02IrZmIb9EP4MN7nTmiOSXDc8ie7BX8Y9WpEtTK7YCTD+OHysqgOWEwjSsXCYSR9t6Xi6RQ1cbF4KkwxdIQTTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quitu\\Desktop\\ArbolBinario\\ArbolB\\ArbolB\\ArbolB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quitu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\quitu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
